@@ -1,4 +1,4 @@
-package com.mitocode.java8.lambda;
+package com.mitocode.lambda;
 
 public class Sintaxis {
 
