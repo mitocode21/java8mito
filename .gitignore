@@ -9,7 +9,7 @@
 mvnw
 mvnw.cmd
 
-# Mobile Tools for Java (J2ME)
+# Mobile Tools for Java
 .mtj.tmp/
 
 # Package Files #
